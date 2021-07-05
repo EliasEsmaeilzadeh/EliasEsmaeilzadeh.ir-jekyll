@@ -1,14 +1,14 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: Elias Esmaeilzadeh
+description: Contact Me
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Elias Esmaeilzadeh
 user_description: I'm a student of Biology at FUM university & a beginner Web Developer. I try to learn more and improve my abilities. you can contact me via links below my name.
-user_title: UnderGraduate Biology Student
-email: ElaisEsmaeilzadeh@gmail.com
+user_title: Undergraduate Biology Student
+email: EliasEsmaeilzadeh@gmail.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
 # gplus_username:  lorem_ipsum
